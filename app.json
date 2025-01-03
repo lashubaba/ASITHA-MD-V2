@@ -1,12 +1,12 @@
 {
-  "name": "ASITHA-MD",
+  "name": "KING THARUWA",
   "description": "Javascript WhatsApp bot made by Asitha",
   "logo": "https://telegra.ph/file/38a4ba6f7a51c15f5feaf.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=f35hwBLZ#CFJeSzOs8xjQJ8mUL-uyWKYll3owJJyc1cQue-HpbWg
       "description": "Put the session-id here.",
       "required": true
     }  
